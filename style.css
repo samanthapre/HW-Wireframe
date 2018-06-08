@@ -1,0 +1,49 @@
+Body {
+    background-color: #777;
+}
+
+header {
+    margin: auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    length: 400px;
+    width: 960px;
+    font-size: 18px;
+
+}
+
+.container nav{
+   background: #777;
+   padding: 10px;
+   margin: auto;
+   color: #777;
+   border-radius: 5;
+   margin-bottom: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+#Section {
+    float: left;
+    width: 900px;
+    display: table;
+    boarder:radius: 10;
+    padding: 20px;
+
+}
+
+ {   <style>
+    .floating-box {
+        float: left;
+
+</style>
+
+    } 
+
+    
+#Aside {
+    float: left;
+    display: table;
+    width: 900px;
+    
+}
